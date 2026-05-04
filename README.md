@@ -41,8 +41,6 @@ Doctor Patient Portal is an Advance Java Web Project. Technology used in this pr
 <img width="1920" height="1080" alt="Screenshot (464)" src="https://github.com/user-attachments/assets/b6ca479f-9816-43da-bd05-aa47a2e63b96" />
 
 
-# Have a nice day 
 
-# Thank you for visiting my profile.
 
 
